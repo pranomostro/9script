@@ -1,0 +1,5 @@
+#!/bin/rc
+
+cd /usr/glenda/trash
+
+rm -rf *
