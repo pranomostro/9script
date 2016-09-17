@@ -1,13 +1,13 @@
-Scripts for Plan 9
-===================
+Small scripts for personal use
+==============================
 
-This is just a little collection of scripts I
-use on Plan 9 and wrote myself. They are useful to me.
+These is just a small set of personal tools
+I use on plan 9.
 
-* empty: empty $home/trash/.
-* r: move a file to $home/trash/.
+* empty: empty the directory /usr/glenda/trash
+* r [FILES]: move the arguments to /usr/glenda/trash
 
 License
 =======
 
-See ./COPYING.
+MIT/X11 License.
