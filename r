@@ -2,7 +2,7 @@
 
 for(i){
 	if(test -f $i)
-		mv $i /usr/glenda/trash
+		mv $i $home/trash
 	if(test -d $i)
-		tar c $i | @{cd /usr/glenda/trash && tar xT } && rm -r $i
+		tar c $i | @{cd $home/trash && tar xT } && rm -r $i
 }

@@ -1,13 +1,9 @@
-Small scripts for personal use
-==============================
+plan9 scripts
+==============
 
-These is just a small set of personal tools
-I use on plan9.
-
-* empty: empty the directory /usr/glenda/trash
-* r [FILES]: move the arguments to /usr/glenda/trash
+Personal scripts for plan9.
 
 License
 =======
 
-MIT/X11 License.
+See ./LICENSE.

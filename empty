@@ -1,5 +1,5 @@
 #!/bin/rc
 
-cd /usr/glenda/trash
+cd $home/trash
 
 rm -rf *
