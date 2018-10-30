@@ -6,4 +6,4 @@ Personal scripts for plan9.
 License
 =======
 
-See ./LICENSE.
+See [README](./LICENSE).
